@@ -34,7 +34,8 @@ export default function Home() {
               <li>
                 <a
                   className="bg-gradient-to-r from-orange-500 text- to-red-500 text-white px-4 py-2 border-none rounded-md ml-8"
-                  href="#"
+                  href="https://scarlet-eyde-74.tiiny.site/"
+                  target="_blank" rel="noreferrer"
                 >
                   Resume
                 </a>
